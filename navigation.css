@@ -1,0 +1,11 @@
+.home:hover {
+	color: red;
+}
+
+.events:hover {
+	background-color: yellow;
+}
+
+.photos:hover {
+	padding: 0 5px;
+}
